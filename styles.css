@@ -1,0 +1,35 @@
+body {
+background-color: #001220;
+font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+
+
+
+.container {
+    text-align: left;
+    
+}
+
+figure img {
+   display: block; 
+   max-width: 600px;
+   margin: 0 auto;
+}
+
+figcaption {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    color: #666;
+}
+
+.bio {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #555;
+
+}
+
+.titlehead {
+
+}
